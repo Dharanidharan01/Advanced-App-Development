@@ -1,4 +1,7 @@
 # My Web App
+# Screenshots
+![image](https://github.com/Dharanidharan01/Advanced-app-development/assets/110535314/2672b6bc-7e90-4df8-b3da-097496320490)
+![image](https://github.com/Dharanidharan01/Advanced-app-development/assets/110535314/85e812c3-7140-46f0-9cbe-861ffedac5eb)
 
 ## Introduction
 
@@ -72,6 +75,10 @@ Add the @tailwind directives for each of Tailwind’s layers to your ./src/index
 
 # Start your build process
 Run your build process with npm run dev
+
+## Contact
+
+For any inquiries or support, please contact us at contact@mywebapp.com.
 ```
 npm run dev
 ```
